@@ -5,3 +5,6 @@ This is an interactive quiz that prompts the user with 5 questions about coding.
 At the end, a final score is displayed and you can choose to start the quiz over again or not.
 
 The URL can be found here: https://csarnacki.github.io/Interactive-Quiz/
+
+
+![Screenshot (14)](https://user-images.githubusercontent.com/83378660/220521262-5af7e6b3-3f29-4616-8857-c8011b7807c4.png)
